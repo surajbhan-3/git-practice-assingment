@@ -7,7 +7,7 @@ for(let i=0; i<=num; i++){
     }
      
      
-    if(count==3){
+    if(count==2){
 console.log("prime")
 }
 else{
